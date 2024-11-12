@@ -1,2 +1,2 @@
 # contalks
-Slides for public conference talks
+This repository contains slides from public conference talks.
